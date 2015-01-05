@@ -114,8 +114,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:000927_0000_0FACA381AF528080"/>
-            <pb facs="tcp:000927_0001_0FACA38266B2A978"/>
+            <pb facs="unknown:000927_0000_0FACA381AF528080"/>
+            <pb facs="unknown:000927_0001_0FACA38266B2A978"/>
             <p>A Monitory LETTER About the MAINTAINANCE Of an Able and Faithful Miniſtry.</p>
             <p>Directed Unto thoſe People, who <hi>Sin against,</hi> &amp; <hi>Sin away</hi> the <hi>Goſpel,</hi> by not Supporting the <hi>Worthy Preachers</hi> of the <hi>Goſpel.</hi>
             </p>
@@ -142,7 +142,7 @@
                <hi>Boſton,</hi> in <hi>N. E.</hi> Printed in the Year. 1700.</p>
          </div>
          <div type="dedication">
-            <pb facs="tcp:000927_0002_0FACA38328DDBB20"/>
+            <pb facs="unknown:000927_0002_0FACA38328DDBB20"/>
             <head>To <hi>J. F.</hi> Eſq.</head>
             <opener>
                <salute>SIR,</salute>
@@ -188,7 +188,7 @@
       </front>
       <body>
          <div type="letter">
-            <pb n="3" facs="tcp:000927_0003_0FACA383E78FC6F0"/>
+            <pb n="3" facs="unknown:000927_0003_0FACA383E78FC6F0"/>
             <head>A Monitory LETTER, about the Maintainance of an Able and Faithful MINISTRY.</head>
             <opener>
                <salute>Brethren,</salute>
@@ -216,7 +216,7 @@
                   <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap>
-                  <pb n="4" facs="tcp:000927_0004_0FACA384A486AD70"/>
+                  <pb n="4" facs="unknown:000927_0004_0FACA384A486AD70"/>
 ut Ministris tantum Erogaretur, quantum ad <gap reason="illegible" resp="#PDCC" extent="3 letters">
                      <desc>•••</desc>
                   </gap>
@@ -234,7 +234,7 @@ ut Ministris tantum Erogaretur, quantum ad <gap reason="illegible" resp="#PDCC" 
                   </gap>
                </hi>
                <pb n="5"
-                   facs="tcp:000927_0005_0FACA38571F74E38"
+                   facs="unknown:000927_0005_0FACA38571F74E38"
                    rendition="simple:additions"/>
 Vow'd unto them &amp; when a, <hi>Res auguſta Domi,</hi> has broken their <hi>Spirits,</hi> and hindred their <hi>Stu<g ref="char:EOLhyphen"/>dies,</hi> &amp; ruin'd the <hi>Liberal Education</hi> of their <hi>Fa<g ref="char:EOLhyphen"/>milies</hi> It is their comfort indeed, that the Lord Jeſus Chriſt ſaies to the <hi>Angels</hi> of the Churches, <hi>I know thy Works, &amp; thy Poverty, &amp; thy Patience.</hi>
             </p>
@@ -244,7 +244,7 @@ Vow'd unto them &amp; when a, <hi>Res auguſta Domi,</hi> has broken their <hi>S
             <p>In the firſt place, Altho' your <hi>Miniſters</hi> rarely, if ever, touch upon it (becauſe they would <hi>Preach the Lord Jeſus Christ,</hi> &amp; not <hi>Themſelves,</hi>) yet I hope, you are not ignorant, That there is the plain, and clear <hi>Commandment</hi> of the Lord Jeſus Chriſt, for the <hi>Maintainance</hi> of His <hi>Evangelical Miniſtry.</hi> I pray, Do your <hi>Miniſters</hi> the Right for once, your ſelves to <hi>Read,</hi> without putting <hi>Them</hi> to <hi>Read,</hi> in the firſt Epiſtle to the <hi>Corinthi<g ref="char:EOLhyphen"/>ans,</hi> the Ninth Chapter, from the <hi>fourth</hi> verſe, to the <hi>Fourteenth.</hi> You ſhall here find an Inſpired Apoſtle of the Lord <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>eſus Chriſt, with ſix or ſeven irrefragrable <hi>Reaſons,</hi> in about nine or ten verſes, proving <hi>This,</hi> which he makes his conclu<g ref="char:EOLhyphen"/>ſion, <hi>The Lord hath ordained, that they which preach the Goſpel, ſhould live of the Goſpel.</hi> It is then in<g ref="char:EOLhyphen"/>conteſtably evident, That if you do not your
-<pb n="6" facs="tcp:000927_0006_0FACA3862CE69160"/>
+<pb n="6" facs="unknown:000927_0006_0FACA3862CE69160"/>
 part, that your <hi>Miniſters</hi> may <hi>Live</hi> comfortably, you Sin againſt the <hi>Ordinance</hi> of the Lord Jeſus Chriſt I am aſtoniſhed, tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> many a man, who calls himſelf a <hi>Chriſtian,</hi> can invent any way to quiet his <hi>Conſcience</hi> before that poſitive word of the Lord Jeſus Chriſt, Gal. 6.6. <hi>Let him that is t<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -263,7 +263,7 @@ part, that your <hi>Miniſters</hi> may <hi>Live</hi> comfortably, you Sin again
                </gap>ark at the <hi>Shepherds,</hi> of our<g ref="char:punc">▪</g> Flocks, by the Name of <hi>Her<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>lings,</hi> meerly becauſe they accept a <hi>Maintainance</hi> from them? Thoſe <hi>Pagant,</hi> [for none worthy the Name of <hi>Chriſtians,</hi> would ſo directly &amp; expreſly contradict our Glorious Lord Jeſus Chriſt, the <hi>Lord of Glory</hi>!] They have certainly forgot what the Apoſtle <hi>Paul</hi> writes, 2 Cor. 11 8 about his <hi>Taking Wages</hi> (or Hire) <hi>of other Churches</hi>; tho' he forbore to demand a<g ref="char:EOLhyphen"/>ny
-<pb n="7" facs="tcp:000927_0007_0FACA386F0A504A8"/>
+<pb n="7" facs="unknown:000927_0007_0FACA386F0A504A8"/>
 thing of that at <hi>Corinth.</hi> That Great <hi>Mini<g ref="char:EOLhyphen"/>ſter</hi> of the Lord Jeſus Chriſt<g ref="char:punc">▪</g> receiving the mo<g ref="char:EOLhyphen"/>ney, that the <hi>Philippians</hi> ga<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>h<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -282,7 +282,7 @@ thing of that at <hi>Corinth.</hi> That Great <hi>Mini<g ref="char:EOLhyphen"/>�
                   </gap>ſe, for ye have R<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>bed me: Let there be meat in my Houſe, and prove me now herewith, if I do not pour you out a Bleſſing.</hi> Now the Apoſtle counted it no weak Argument, that was to be fetch'd from the <hi>Maintainance</hi> of <hi>Miniſters</hi> under the <hi>Old Teſtament,</hi> for the <hi>Maintainance</hi> of <hi>Miniſters</hi> under the <hi>New.</hi> Saies he<g ref="char:punc">▪</g> 1 Cor 9.13 <hi>Do ye not know, that they which Minister about Holy Things, Live of the Things of the Temple! And they which wait at the Altar, are partakers with the Altar? Even ſo they which preach the Goſpel ſhould Live of the Goſpel.</hi> The <hi>Miniſters</hi> of the <hi>New Teſta<g ref="char:EOLhyphen"/>ment,</hi> are as worthy of a <hi>Maintainance,</hi> as thoſe of the <hi>Old.</hi> And yet they don't ask of you, your <hi>Tythes,</hi> which was but <hi>part</hi> of the <hi>Levitical Maintainance</hi>: but if they might have ſo much as a <hi>Tenth part</hi> of what the <hi>Levites</hi> had, I am verily perſwaded, it would richly content many
-<pb n="8" facs="tcp:000927_0008_0FACA387AB8772A8"/>
+<pb n="8" facs="unknown:000927_0008_0FACA387AB8772A8"/>
 of them. If <hi>Moſes</hi> took ſuch care for <hi>his Mi<g ref="char:EOLhyphen"/>niſters,</hi> will any man dream, that <hi>Jeſus</hi> (the <hi>Son over his Houſe</hi>) takes no care at all for <hi>His</hi>? The word of the Lord <gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>ſus Chriſt requires of a <hi>Miniſter,</hi> 1 Tim 3 6 That he <hi>be given to Hoſpi<g ref="char:EOLhyphen"/>tality</hi>: How is it poſſible for <hi>him</hi> to be ſo, i<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -297,7 +297,7 @@ of them. If <hi>Moſes</hi> took ſuch care for <hi>his Mi<g ref="char:EOLhyphen
                </gap>t up unto <hi>another Calling,</hi> or, would they yet betake themſelves to a <hi>meaner Calling,</hi> they would probably grow <hi>Rich</hi> as faſt as <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>. But they confine themſelves to their <hi>Mi<g ref="char:EOLhyphen"/>niſtry</hi>; becauſe the Lord has Commanded them
-<pb n="9" facs="tcp:000927_0009_0FACA3886A9C37E8"/>
+<pb n="9" facs="unknown:000927_0009_0FACA3886A9C37E8"/>
 to <hi>give themſelves unto it,</hi> and, <hi>Be wholly in i<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>.</hi> It is therefore <hi>Barbarous</hi> to deny them an agree<g ref="char:EOLhyphen"/>able <hi>Maintainance.</hi>
@@ -313,7 +313,7 @@ to <hi>give themſelves unto it,</hi> and, <hi>Be wholly in i<gap reason="illegi
                   </gap>gnorant,</hi> &amp; <hi>Re<g ref="char:EOLhyphen"/>lieve</hi> the <hi>Tempted</hi> &amp; give their beſt <hi>Advice</hi> unto the <hi>Unadviſed.</hi> Yea, they muſt on frequent oc<g ref="char:EOLhyphen"/>caſions give themſelves to <hi>Faſting</hi> &amp; <hi>Praying</hi> in their own Reti<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ements, leſt the <hi>Devices of Satan</hi> (who <hi>Deſires</hi> to <hi>Sift</hi> them) ſhould in any thing
-<pb n="10" facs="tcp:000927_0010_0FACA389273F2E20"/>
+<pb n="10" facs="unknown:000927_0010_0FACA389273F2E20"/>
 prevail againſt themſelves, &amp; their Flocks. Now, Sirs, are any ſo forſaken of all <hi>Reaſon,</hi> that they will not confeſs it an ineſtimable Benefit unto a Town, for to have a <hi>Minister, (a Good man, and f<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ll of the Holy Spirit, &amp; Fai<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -331,7 +331,7 @@ prevail againſt themſelves, &amp; their Flocks. Now, Sirs, are any ſo forſak
             <p>Yea, You muſt allow me, to Advance this Aſſertion. Every man<g ref="char:punc">▪</g> owes a <hi>Portion</hi> of his <hi>Eſtate,</hi> unto <hi>Pious Uſes</hi>; be owes it unto the <hi>Lord</hi>: the <hi>Great Lord</hi> is abuſed, if that <hi>Quitrent</hi> be no<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> rendred unto Him. But what <hi>Portion</hi>
-               <pb n="11" facs="tcp:000927_0011_0FACA38ACBCCDBD8"/>
+               <pb n="11" facs="unknown:000927_0011_0FACA38ACBCCDBD8"/>
 of his <hi>Eſtate</hi> is it, that every man muſt Sep<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>rate, and Conſecrate unto <hi>Pious Uſes,</hi> that ſo all the reſt may be <hi>clean</hi> unto him. I ſhould think, That ſomething about a <hi>Tenth part</hi> ſeems the <hi>Leaſt</hi> that can be. I know very well, that ma<g ref="char:EOLhyphen"/>ny do and muſt give <hi>more</hi> than ſuch a <hi>Portion</hi>; and I know the <hi>Buſineſs</hi> of many to Ly ſo that they can't exactly give juſt this <hi>portion.</hi> How<g ref="char:EOLhyphen"/>ever, <hi>ſomething about</hi> this <hi>portion,</hi> ſeems a <hi>Good proportion.</hi> I find our Father <hi>Jacob,</hi> ſaying, <hi>Gen.</hi> 28 21, 22. <hi>The Lord ſhall be my God, &amp; of all that thou ſhalt give me, I will ſurely give the Tenth un<g ref="char:EOLhyphen"/>to th<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -343,7 +343,7 @@ of his <hi>Eſtate</hi> is it, that every man muſt Sep<gap reason="illegible" r
                </gap>nge your <hi>Tythes,</hi> as due to the <hi>Clergy.</hi> But I'll put you out of pain as to <hi>That</hi>; I do not <hi>ſo!</hi> The Lord Jeſus Chriſt has expreſly provided <hi>others,</hi> as well as His <hi>Miniſters,</hi> to be the Receivers of His <hi>Re<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ts.</hi>
-               <pb n="12" facs="tcp:000927_0012_0FACA38B97D12718"/>
+               <pb n="12" facs="unknown:000927_0012_0FACA38B97D12718"/>
 The Improvement which I am to make of the Argument, is <hi>This.</hi> Let your Induſtrious, and Self-denying <hi>Miniſters</hi> have but <hi>One Half,</hi> of what one would judge proper to pay to the Glorious Antitype of <hi>Melchizede<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>
@@ -367,7 +367,7 @@ The Improvement which I am to make of the Argument, is <hi>This.</hi> Let your I
                <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>o, than a <hi>Subſtraction</hi> from the <hi>Main<g ref="char:EOLhyphen"/>tainance</hi>
-               <pb n="13" facs="tcp:000927_0013_0FACA38C274901C0"/>
+               <pb n="13" facs="unknown:000927_0013_0FACA38C274901C0"/>
 of your <hi>Miniſters,</hi> who are in your <hi>Ser<g ref="char:EOLhyphen"/>vice,</hi> and only by the Calamity of <hi>Sickneſs</hi> in<g ref="char:EOLhyphen"/>terrupted in the <hi>Service</hi>
             </p>
             <p>But, Sirs; what can you imagine to get, by thus <hi>witholding more than is meet</hi>? Oh, That you would Believe that word of God, Prov. 11.24, 25. <hi>There is that with<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -376,7 +376,7 @@ of your <hi>Miniſters,</hi> who are in your <hi>Ser<g ref="char:EOLhyphen"/>vic
                      <desc>•</desc>
                   </gap>
                </hi>
-               <pb n="14" facs="tcp:000927_0014_0FACA38CEB46EF08"/>
+               <pb n="14" facs="unknown:000927_0014_0FACA38CEB46EF08"/>
 is ever they can, againſt their <hi>Neighbours,</hi> or unto the<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>. They ſay with <hi>Job, As for me, is my Complaint <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -412,7 +412,7 @@ is ever they can, againſt their <hi>Neighbours,</hi> or unto the<gap reason="il
                      <desc>••</desc>
                   </gap>
                </hi>
-               <pb n="15" facs="tcp:000927_0015_0FACA38DB18E8218"/>
+               <pb n="15" facs="unknown:000927_0015_0FACA38DB18E8218"/>
 ad<gap reason="illegible" resp="#PDCC" extent="3 letters">
                   <desc>•••</desc>
                </gap>ing to ſee, the Diligent Philoſopher <hi>Clean<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -478,7 +478,7 @@ ad<gap reason="illegible" resp="#PDCC" extent="3 letters">
                   <desc>•</desc>
                </gap>ple refuſing
 <pb n="16"
-                   facs="tcp:000927_0016_0FACA38E709CDAD0"
+                   facs="unknown:000927_0016_0FACA38E709CDAD0"
                    rendition="simple:additions"/>
                <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
